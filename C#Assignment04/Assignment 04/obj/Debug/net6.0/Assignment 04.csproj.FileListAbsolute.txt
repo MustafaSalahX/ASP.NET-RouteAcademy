@@ -1,0 +1,14 @@
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\bin\Debug\net6.0\Assignment 04.exe
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\bin\Debug\net6.0\Assignment 04.deps.json
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\bin\Debug\net6.0\Assignment 04.runtimeconfig.json
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\bin\Debug\net6.0\Assignment 04.dll
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\bin\Debug\net6.0\Assignment 04.pdb
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\Assignment 04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\Assignment 04.AssemblyInfoInputs.cache
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\Assignment 04.AssemblyInfo.cs
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\Assignment 04.csproj.CoreCompileInputs.cache
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\Assignment 04.dll
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\refint\Assignment 04.dll
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\Assignment 04.pdb
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\Assignment 04.genruntimeconfig.cache
+D:\Route C42 asp.net\WorkShop\2.C#\1.C# basic\3.C# 3\Assignment 04\Assignment 04\obj\Debug\net6.0\ref\Assignment 04.dll
